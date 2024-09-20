@@ -8,6 +8,8 @@ Once the Jupyter Notebook code was finalized, we exported the processed data, re
 Based on the specific requirements mentioned in the rubric, we have attached all files necessary for the project.
 
 
-
-
-
+## Table of Contents
++ ETL_Mini_Project_JAustin_HBowman_AMccall.ipynb
++ Crowdfunding_ERD.png
++ crowdfunding_db_schema.sql
++ README.md
