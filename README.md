@@ -12,4 +12,5 @@ Based on the specific requirements mentioned in the rubric, we have attached all
 + ETL_Mini_Project_JAustin_HBowman_AMccall.ipynb
 + Crowdfunding_ERD.png
 + crowdfunding_db_schema.sql
++ Resources Folder (campaign.csv, category.csv, contacts.csv, contacts.xlsx, crowdfunding.xlsx, subcategory.csv)
 + README.md
